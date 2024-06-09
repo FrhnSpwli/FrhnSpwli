@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cloud Computing Cohort at Bangkit Academy 2024 | Core Team - GDSC Unhas | Front-End Developer Enthusiast | 3rd Year Informatics Engineering Student at Hasanuddin University
+A skilled front-end web developer with expertise in PHP and JavaScript, including their frameworks, and two years of experience. My abilities also encompass project management and UI design, providing a comprehensive understanding of the development process. I prioritize client communication and teamwork to transform visions into reality, ensuring successful and impactful project outcomes.
 
 
 ## 🌐 Socials:
