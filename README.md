@@ -22,7 +22,7 @@ A skilled front-end web developer with expertise in PHP and JavaScript, includin
 ![](https://github-contributor-stats.vercel.app/api?username=FrhnSpwli&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+<img src='https://memer-new.vercel.app/' style="height: 650px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FrhnSpwli&icon=3&color=0)](https://visitcount.itsvg.in)
