@@ -24,7 +24,7 @@ I care about building solutions that are useful, maintainable, and easy for peop
 
 ## 🚀 What I'm Working On
 
-### [WatermarkMe](https://github.com/FrhnSpwli/watermark-me)
+### 🛡️ [WatermarkMe](https://github.com/FrhnSpwli/watermark-me)
 
 A privacy-first document watermarking application built for secure document processing.
 
