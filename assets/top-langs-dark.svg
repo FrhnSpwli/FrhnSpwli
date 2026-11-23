@@ -10,31 +10,31 @@
     <text x="20" y="48" fill="#8b949e" font-size="11">By code size in recent public projects</text>
     <g clip-path="url(#language-bar)">
       <rect x="20" y="58" width="380" height="10" fill="#21262d"/>
-      <rect x="20.00" y="58" width="232.05" height="10" fill="#3178c6"/>
-    <rect x="252.05" y="58" width="89.01" height="10" fill="#f1e05a"/>
-    <rect x="341.07" y="58" width="47.73" height="10" fill="#3fb950"/>
-    <rect x="388.79" y="58" width="8.26" height="10" fill="#3572a5"/>
-    <rect x="397.05" y="58" width="2.33" height="10" fill="#663399"/>
-    <rect x="399.38" y="58" width="0.62" height="10" fill="#e34c26"/>
+      <rect x="20.00" y="58" width="246.14" height="10" fill="#3178c6"/>
+    <rect x="266.14" y="58" width="65.52" height="10" fill="#f1e05a"/>
+    <rect x="331.66" y="58" width="60.09" height="10" fill="#3fb950"/>
+    <rect x="391.75" y="58" width="6.08" height="10" fill="#3572a5"/>
+    <rect x="397.83" y="58" width="1.71" height="10" fill="#663399"/>
+    <rect x="399.54" y="58" width="0.46" height="10" fill="#e34c26"/>
     </g>
     <circle cx="25" cy="90" r="5" fill="#3178c6"/>
     <text x="37" y="94" fill="#f0f6fc" font-size="12" font-weight="500">TypeScript</text>
-    <text x="196" y="94" fill="#8b949e" font-size="11" text-anchor="end">61.1%</text>
+    <text x="196" y="94" fill="#8b949e" font-size="11" text-anchor="end">64.8%</text>
     <circle cx="225" cy="90" r="5" fill="#f1e05a"/>
     <text x="237" y="94" fill="#f0f6fc" font-size="12" font-weight="500">JavaScript</text>
-    <text x="396" y="94" fill="#8b949e" font-size="11" text-anchor="end">23.4%</text>
+    <text x="396" y="94" fill="#8b949e" font-size="11" text-anchor="end">17.2%</text>
     <circle cx="25" cy="117" r="5" fill="#3fb950"/>
     <text x="37" y="121" fill="#f0f6fc" font-size="12" font-weight="500">PLpgSQL</text>
-    <text x="196" y="121" fill="#8b949e" font-size="11" text-anchor="end">12.6%</text>
+    <text x="196" y="121" fill="#8b949e" font-size="11" text-anchor="end">15.8%</text>
     <circle cx="225" cy="117" r="5" fill="#3572a5"/>
     <text x="237" y="121" fill="#f0f6fc" font-size="12" font-weight="500">Python</text>
-    <text x="396" y="121" fill="#8b949e" font-size="11" text-anchor="end">2.2%</text>
+    <text x="396" y="121" fill="#8b949e" font-size="11" text-anchor="end">1.6%</text>
     <circle cx="25" cy="144" r="5" fill="#663399"/>
     <text x="37" y="148" fill="#f0f6fc" font-size="12" font-weight="500">CSS</text>
-    <text x="196" y="148" fill="#8b949e" font-size="11" text-anchor="end">0.6%</text>
+    <text x="196" y="148" fill="#8b949e" font-size="11" text-anchor="end">0.5%</text>
     <circle cx="225" cy="144" r="5" fill="#e34c26"/>
     <text x="237" y="148" fill="#f0f6fc" font-size="12" font-weight="500">HTML</text>
-    <text x="396" y="148" fill="#8b949e" font-size="11" text-anchor="end">0.2%</text>
+    <text x="396" y="148" fill="#8b949e" font-size="11" text-anchor="end">0.1%</text>
     <text x="20" y="176" fill="#8b949e" font-size="10">Past 2 years &#183; notebook files excluded</text>
   </g>
 </svg>
